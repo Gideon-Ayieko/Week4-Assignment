@@ -3,9 +3,9 @@
 
 //QUESTION 1 - FUNCTIONS BASICS
 function calculateArea(length, width){
-    console.log(length*width);
+    let area=length*width;
+    console.log(area);
 }
-
 calculateArea(10,5);
 
 
